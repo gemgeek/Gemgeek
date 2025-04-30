@@ -5,7 +5,7 @@
 ### Hi there👋 
 I’m Gbeve Esenam Matilda(GEM) 💎❤️  
 ---
-*Creative Designer | Executive Assistant | Aspiring Full-Stack Engineer*
+*Creative Designer | Executive Assistant | Aspiring Full-Stack Engineer | Introvert*
 
 ---
 
