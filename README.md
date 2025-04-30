@@ -12,7 +12,7 @@ I’m Gbeve Esenam Matilda(GEM) 💎❤️
 ### About Me  
 I’m a brand identity and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
 
-👩‍💻I’m currently learning frontend and backend web development at ALX Africa, taking bold steps into the world of tech.  
+👩‍💻I’m currently learning frontend and backend web development at ALX Africa, taking bold steps into the world of tech.  💅
 
 👩‍💼 By day, I serve as an Executive Assistant at Skye Space Consulting and by passion, 
 
