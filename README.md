@@ -2,13 +2,15 @@
   <img src="https://media3.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif?cid=6c09b952omy5nthkal2oue82c2lzwj39ecnri1v3hgf3o211&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" height="200" alt="Welcome banner" />
 </p>
 
-### Hi there👋 
-I’m Gbeve Esenam Matilda (GEM) 💎❤️  
----
-*Creative Designer | Executive Assistant | Aspiring Full-Stack Engineer | Introvert*
+<p align="center">
+  <strong>Hi there👋</strong><br>
+  I’m <strong>Gbeve Esenam Matilda (GEM)💎❤️</strong><br>
+  
+  <p align="center">
+  <strong><em>Creative Designer | Executive Assistant | Aspiring Full-Stack Engineer</em>
+</p></strong><br>
 
----
-
+---   
 ### About Me  
 I’m a brand identity and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
 
@@ -21,7 +23,11 @@ I’m a brand identity and graphic designer with a deep love for clean, bold, ti
 🚀 I'm excited to collaborate, create, and build things that truly matter.
 
 ---
+### My Vision
+To become a well-sought-after full-stack engineer solving real-world and global problems especially those connected to the underexplored condition of aphantasia.
+I aim to blend technology with creativity, build impactful solutions, and leave a legacy that empowers others to grow, rise, and shine.
 
+---
 ### Tech Stack & Tools  
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
