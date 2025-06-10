@@ -13,7 +13,7 @@
 ### About Me  
 I’m a brand identity and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
 
-👩‍💻I’m currently learning frontend and backend web development at ALX Africa, taking bold steps into the world of tech.  💅
+👩‍💻I’m currently learning frontend and backend web development at ALX Africa.  💅
 
 👩‍💼 By day, I serve as an Executive Assistant at Skye Space Consulting and by passion, 
 
@@ -33,6 +33,7 @@ I aim to blend technology with creativity, build impactful solutions, and leave 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
@@ -81,6 +82,18 @@ Let’s connect and create something magical!✨
 ---
 
 *Designing with heart. Coding with curiosity.*
+
+### ✨ My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gemgeek&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=BB86FC&icon_color=03DAC6&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemgeek&layout=compact&theme=dark&title_color=BB86FC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gemgeek&theme=onedark&title_color=BB86FC&text_color=FFFFFF&icon_color=03DAC6&border_color=transparent&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## DailyDev Achievement 
 <a href="https://app.daily.dev/matildaesenamgbeve"><img src="https://api.daily.dev/devcards/v2/MA1B2o3ckMjPkKaX5wFQh.png?type=default&r=bsj" width="356" alt="Matilda Esenam Gbeve's Dev Card"/></a>
