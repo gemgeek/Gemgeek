@@ -95,5 +95,5 @@ Let’s connect and create something magical!✨
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gemgeek&theme=onedark&title_color=BB86FC&text_color=FFFFFF&icon_color=03DAC6&border_color=transparent&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## DailyDev Achievement 
+## DailyDev Achievement 🎖️
 <a href="https://app.daily.dev/matildaesenamgbeve"><img src="https://api.daily.dev/devcards/v2/MA1B2o3ckMjPkKaX5wFQh.png?type=default&r=bsj" width="356" alt="Matilda Esenam Gbeve's Dev Card"/></a>
