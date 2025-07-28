@@ -43,6 +43,7 @@ I aim to blend technology with creativity, build impactful solutions, and leave 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator" />
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" alt="Canva"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40" />
 </p>
 
 ---
