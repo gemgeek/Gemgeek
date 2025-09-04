@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif?cid=6c09b952omy5nthkal2oue82c2lzwj39ecnri1v3hgf3o211&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%" height="200" alt="Welcome banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pkc2s1dm90dDM2OG9rZXgwZHBqMHk5dWJ4aHJ1dW5zN3QzbjEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="100%" height="400" alt="Welcome banner" />
 </p>
 
 <p align="center">
@@ -27,29 +27,33 @@ To become a well-sought-after full-stack engineer solving real-world and global 
 I aim to blend technology with creativity, build impactful solutions, and leave a legacy that empowers others to grow, rise, and shine.
 
 ---
-### Tech Stack & Tools  
-<p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwindcss" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator" />
-  <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40" />
-</p>
+## Tech Stack & Tools
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### Portfolio & Projects  
-[![Website](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yogem.art/)
+[![Website](https://img.shields.io/badge/Visit%20My%20Portfolio-ffff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yogem.art/)
 
 ---
 
@@ -57,31 +61,10 @@ Let’s connect and create something magical!✨
 
 ### Let’s Connect:
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/matilda-esenam-gbeve" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-
-
-
-<!-- Behance -->
-<a href="https://www.behance.net/ogtilda" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" alt="Behance" width="30" height="30"/>
-</a>
-
-
-
-<!-- Twitter -->
-<a href="https://twitter.com/gem_geek_" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
-</a>
-
-
-
-<!-- Email -->
-<a href="mailto:esenam16@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matilda-esenam-gbeve)
+[![Behance](https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/ogtilda)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gem_geek_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esenam16@gmail.com)
 
 ---
 
