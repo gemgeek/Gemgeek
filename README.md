@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&color=FF69B4&center=true&vCenter=true&width=500&lines=✨+Hi%2C+welcome+to+my+page!+✨;💻+I'm+a+Full+Stack+Developer;🌸+Lover+of+Tech+%26+Creativity;🚀+Building+Dreams+in+Code" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pkc2s1dm90dDM2OG9rZXgwZHBqMHk5dWJ4aHJ1dW5zN3QzbjEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="100%" height="400" alt="Welcome banner" />
 </p>
@@ -89,3 +91,5 @@ Let’s connect and create something magical!✨
 
 ## DailyDev Achievement 🎖️
 <a href="https://app.daily.dev/matildaesenamgbeve"><img src="https://api.daily.dev/devcards/v2/MA1B2o3ckMjPkKaX5wFQh.png?type=default&r=bsj" width="356" alt="Matilda Esenam Gbeve's Dev Card"/></a>
+
+---
