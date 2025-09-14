@@ -13,11 +13,11 @@
   I’m <strong>Gbeve Esenam Matilda (GEM)💎❤️</strong><br>
   
   <p align="center">
-  Creative Designer | Executive Assistant | Junior Full-Stack Developer
+  Creative Designer | Executive Assistant | Full-Stack Developer
 
 ---   
 ### About Me  
-I’m a Junior Full-stack developer, brand identity and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
+I’m a Full-stack developer, brand identity and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
 
 👩‍💻I’m currently learning and enhancing my skills in frontend and backend web development at ALX Africa.  💅
 
