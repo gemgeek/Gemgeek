@@ -34,21 +34,15 @@ I aim to blend technology with creativity, build impactful solutions, and leave 
 
 ---
 ## Tech Stack & Tools
-
-### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fffff?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -59,7 +53,24 @@ I aim to blend technology with creativity, build impactful solutions, and leave 
 
 ---
 
-### Portfolio & Projects  
+## ✨ Featured Projects  
+
+| Project | Description |  
+|---------|-------------|  
+| <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEM'S%20SE%20ROADMAP%20(1).png" width="400"/> | An archive of my journey in tech, documenting daily learnings, breakthroughs, and reflections. My way of staying consistent and transparent about growth.  
+**[Digital Journal](https://github.com/gemgeek/gems-digital-journal)** 📓 |  
+| <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Wireframe%20Home.png" width="400"/> | My first flagship full-stack project — a web platform connecting households with verified artisans and home service providers (plumbers, electricians, carpenters, etc.) across Ghana. Focused on **trust, safety, and real-world impact**.  
+<details>  
+<summary>Read more</summary>  
+
+HandyHub simplifies how households find trusted, local help while giving artisans a platform to showcase their services. Emphasis is on safety through verification for both parties.
+
+https://github.com/gemgeek/HandyHub-backend |  https://github.com/gemgeek/HandyHub-frontend </details>
+
+
+---
+
+### Brand Design Portfolio  
 [![Website](https://img.shields.io/badge/Visit%20My%20Portfolio-ffff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yogem.art/)
 
 ---
