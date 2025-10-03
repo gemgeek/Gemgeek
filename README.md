@@ -1,22 +1,17 @@
 <div align="center" style="background-color: #F8C8DC; padding: 2rem; border-radius: 8px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&weight=800&size=25&duration=4000&pause=1000&color=121212&background=F8C8DC&center=true&vCenter=true&width=600&lines=Hi+Welcome+to+my+Page!;I'm+a+Software+Engineer;Lover+of+Tech;Building+Dreams+in+Code" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&weight=800&size=25&duration=4000&pause=1000&color=121212&background=F8C8DC&center=true&vCenter=true&width=600&lines=Hi+Welcome+to+my+Page!;I'm+a+Software+Engineer" alt="Animated header" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pkc2s1dm90dDM2OG9rZXgwZHBqMHk5dWJ4aHJ1dW5zN3QzbjEwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="100%" height="400" alt="Welcome banner" />
-</p>
+### About Me:
 
-
-<p align="center">
-  I’m <strong>Gbeve Esenam Matilda (GEM)💎❤️</strong><br>
+<p align="left">
+  My name is <strong>Gbeve Esenam Matilda (GEM)💎❤️</strong><br>
   
-  <p align="center">
+  <p align="left">
   Creative Designer | Executive Assistant | Full-Stack Developer
-
----   
-### About Me  
+     
 I’m a Full-stack developer, brand identity and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
 
 👩‍💻I’m currently learning and enhancing my skills in frontend and backend web development at ALX Africa.  💅
