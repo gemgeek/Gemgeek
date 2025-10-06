@@ -1,5 +1,5 @@
-<div align="center" style="background-color: #F8C8DC; padding: 2rem; border-radius: 8px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&weight=800&size=25&duration=4000&pause=1000&color=121212&background=F8C8DC&center=true&vCenter=true&width=600&lines=Hi+Welcome+to+my+Page!;I'm+a+Software+Engineer" alt="Animated header" />
+<div align="center" style="background-color: 4169E1; padding: 2rem; border-radius: 8px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&weight=800&size=25&duration=4000&pause=1000&color=121212&background=FF69B4&center=true&vCenter=true&width=600&lines=Hi+Welcome+to+my+Page!;I'm+a+Software+Engineer" alt="Animated header" />
 </div>
 
 ---
@@ -64,9 +64,12 @@ https://github.com/gemgeek/HandyHub-backend |  https://github.com/gemgeek/HandyH
 
 
 ---
+### Portfolio  
+[![Website](https://img.shields.io/badge/Portfolio%20Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gemgeek.online/)
 
-### Brand Design Portfolio  
-[![Website](https://img.shields.io/badge/Visit%20My%20Portfolio-ffff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yogem.art/)
+
+### Brand Design   
+[![Website](https://img.shields.io/badge/Check%20Out%20My%20Designs-00008B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yogem.art/)
 
 ---
 
