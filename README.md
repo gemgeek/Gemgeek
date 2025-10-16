@@ -1,5 +1,13 @@
-<div align="center" style="background-color: 4169E1; padding: 2rem; border-radius: 8px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&weight=800&size=25&duration=4000&pause=1000&color=121212&background=FF69B4&center=true&vCenter=true&width=600&lines=Hi+Welcome+to+my+Page!;I'm+a+Software+Engineer" alt="Animated header" />
+<div align="center">
+
+  <!-- ✨ Futuristic Cyberpunk Header ✨ -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=9,18,20,30&text=GEM%20GEEK&fontAlign=50&fontAlignY=35&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20💻%20•%20Brand%20Identity%20Designer%20🌸%20•%20Aphantasia%20Advocate%20🧠&descSize=18&descAlign=50&descAlignY=70" 
+    alt="Cyberpunk Header"
+  />
+  <!-- Optional glowing divider -->
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
+
 </div>
 
 ---
@@ -10,9 +18,8 @@
   My name is <strong>Gbeve Esenam Matilda (GEM)💎❤️</strong><br>
   
   <p align="left">
-  Creative Designer | Executive Assistant | Full-Stack Developer
      
-I’m a Full-stack developer, brand identity and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
+I’m a Full-stack developer, brand identity, and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
 
 👩‍💻I’m currently learning and enhancing my skills in frontend and backend web development at ALX Africa.  💅
 
