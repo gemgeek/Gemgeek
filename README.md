@@ -48,22 +48,7 @@ I aim to blend technology with creativity, build impactful solutions, and leave 
 
 ---
 
-## ✨ Featured Projects  
 
-| Project | Description |  
-|---------|-------------|  
-| <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEM'S%20SE%20ROADMAP%20(1).png" width="400"/> | An archive of my journey in tech, documenting daily learnings, breakthroughs, and reflections. My way of staying consistent and transparent about growth.  
-**[Digital Journal](https://github.com/gemgeek/gems-digital-journal)** 📓 |  
-| <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Wireframe%20Home.png" width="400"/> | My first flagship full-stack project — a web platform connecting households with verified artisans and home service providers (plumbers, electricians, carpenters, etc.) across Ghana. Focused on **trust, safety, and real-world impact**.  
-<details>  
-<summary>Read more</summary>  
-
-HandyHub simplifies how households find trusted, local help while giving artisans a platform to showcase their services. Emphasis is on safety through verification for both parties.
-
-https://github.com/gemgeek/HandyHub-backend |  https://github.com/gemgeek/HandyHub-frontend </details>
-
-
----
 ### Portfolio  
 [![Website](https://img.shields.io/badge/Portfolio%20Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gemgeek.online/)
 
