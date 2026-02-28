@@ -21,8 +21,6 @@
      
 I’m a Full-stack developer, brand identity, and graphic designer with a deep love for clean, bold, timeless design.🧑‍🎨
 
-👩‍💻I’m currently learning and enhancing my skills in frontend and backend web development at ALX Africa.  💅
-
 👩‍💼 By day, I serve as an Executive Assistant and by passion, 
 
 🧠 I’m an Aphantasia Awareness Advocate, using design and technology to bring invisible experiences into the light.  
